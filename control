@@ -1,0 +1,9 @@
+Package: com.rager.ytnoshortsscroll
+Name: YTNoShortsScroll
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: Remove scrolling ability in YouTube Shorts
+Maintainer: fullonrager
+Author: fullonrager
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000)
